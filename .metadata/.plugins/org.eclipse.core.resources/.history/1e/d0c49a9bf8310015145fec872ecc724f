@@ -1,0 +1,10 @@
+package Mawr.College;
+
+public class Procedural {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

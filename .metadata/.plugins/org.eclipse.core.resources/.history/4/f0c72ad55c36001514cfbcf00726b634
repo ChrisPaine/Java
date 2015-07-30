@@ -1,0 +1,11 @@
+package mawr.college;
+
+public class Date1 {
+	public String month;
+	public int day;
+	public int year;
+
+	public String toString() {
+		return month + " " + day + ", " + year;
+	}
+}

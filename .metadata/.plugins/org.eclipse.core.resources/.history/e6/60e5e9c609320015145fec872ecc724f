@@ -1,0 +1,20 @@
+package Mawr.college;
+
+public class HandTraceExample {
+
+	public static void main(String[] args) {
+		int answer = 0, value = 4;
+		
+		System.out.println("Code:" + "\t\t\t" + "Value" + "\t\t" + "Answer:");
+		
+		System.out.println("" + "\t\t\t" + value + "\t\t" + answer);
+		
+		value = value + 1;
+		System.out.println("value = value + 1" + "\t" + value + "\t\t" + answer);
+		
+		value++;
+		System.out.println("value++" + "\t" + value + "\t\t" + answer);
+
+	}
+
+}

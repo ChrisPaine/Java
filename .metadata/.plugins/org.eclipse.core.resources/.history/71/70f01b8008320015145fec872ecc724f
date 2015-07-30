@@ -1,0 +1,10 @@
+package Mawr.college;
+
+public class HandTraceExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package mar.college;
+
+public class ArrayCodingExercise {
+
+	public static void main(String[] args) {
+		int[] foo  = {1,2,3,4,5};
+		int result = 0;
+		
+		for(int index = 0; index == foo.length; index++){
+			if(foo[index]<result){
+				result = foo[index];
+			}
+		}
+		System.out.println(result);
+
+	}
+
+}

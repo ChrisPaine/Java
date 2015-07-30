@@ -1,0 +1,10 @@
+package mawr.college;
+
+public class ioPackage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
