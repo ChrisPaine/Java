@@ -7,9 +7,9 @@ public class Date1 {
 
 	// change the month (using an int) , day, and year .
 	public void setDate(int newMonth, int newDay, int newYear) {
-		this.month = monthString(newMonth);
-		this.day = newDay;
-		this.year = newYear;
+		month = monthString(newMonth);
+		day = newDay;
+		year = newYear;
 	}
 
 	// change month number (int) to string — used by setDate
@@ -46,6 +46,6 @@ public class Date1 {
 
 	public String toString() {
 		// method definition and its implementation.
-		return this.month + " " + this.day + ", " + this.year;
+		return month + " " + day + ", " + year;
 	}
 }

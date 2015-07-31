@@ -14,13 +14,14 @@ public class Date1Demo {
 		birthday.day =4;
 		birthday.year =1776; 
 		
-		System.out.println(newYears.toString()); 
-		System.out.println(birthday.toString()); 
-		System.out.println(birthday.monthString(6));
+		System. out . println (newYears. toString( ) ) ; 
+		System. out . println (birthday. toString( ) ) ; 
+		System. out . println (birthday. monthString (6) ) • 
 
-		birthday.setDate(2, 2, 2002); 
-		System.out.println(birthday.toString());
-		newYears.day = 42; 
-		System.out.println(newYears.toString());
-	}
+		birthday. setDate( 2, 2, 2002) ; 
+		System. out . println (birthday. toString ( 
+		newYears.day 42; 
+		Sys tem. out . println (newYears . toString ( 
+		n; 
+		n; 
 }

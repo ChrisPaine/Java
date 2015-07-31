@@ -46,6 +46,6 @@ public class Date1 {
 
 	public String toString() {
 		// method definition and its implementation.
-		return this.month + " " + this.day + ", " + this.year;
+		return month + " " + day + ", " + year;
 	}
 }
