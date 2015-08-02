@@ -1,0 +1,2 @@
+person cannot be resolved to a typePerson p = new person();
+p.getName()

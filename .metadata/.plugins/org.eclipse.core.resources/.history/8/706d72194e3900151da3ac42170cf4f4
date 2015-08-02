@@ -1,0 +1,20 @@
+package org.totalbeginner.tutorial;
+
+import junit.framework.TestCase;
+
+public class PersonTest extends TestCase {
+
+	public void testPerson() {
+		Person p1 = new Person();
+		assertEquals("unknown name", p1.getName());
+	}
+
+	public void testSetName() {
+		fail("Not yet implemented");
+	}
+
+	public void testSetMaximunBooks() {
+		fail("Not yet implemented");
+	}
+
+}
