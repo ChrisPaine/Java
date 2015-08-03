@@ -21,13 +21,5 @@ public class PersonTest extends TestCase {
 		p3.setMaximunBooks(10);
 		assertEquals(10, p3.getMaximunBooks());
 	}
-	
-	public void testToString() {
-		Person p4 = new Person();
-		p4.setName("Fred Flinstone");
-		p4.setMaximunBooks(7);
-		String testString = "Fred Flinstone (7 books)";
-		assertEquals(testString, p4.toString());
-	}
 
 }

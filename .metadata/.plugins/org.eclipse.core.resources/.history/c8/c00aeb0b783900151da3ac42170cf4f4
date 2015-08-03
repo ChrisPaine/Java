@@ -1,0 +1,9 @@
+package org.totalbeginner.tutorial;
+
+public class Book {
+
+	public Book(String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

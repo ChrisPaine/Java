@@ -25,6 +25,6 @@ public class Person {
 		this.maximunBooks = maximunBooks;
 	}
 	public String toString() {
-		return this.getName() + " (" + this.getMaximunBooks() + " books)";
+		return this.getName() + "(" + this.getMaximunBooks() + "books)";
 	}
 }

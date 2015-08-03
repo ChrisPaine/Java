@@ -24,7 +24,5 @@ public class Person {
 	public void setMaximunBooks(int maximunBooks) {
 		this.maximunBooks = maximunBooks;
 	}
-	public String toString() {
-		return this.getName() + " (" + this.getMaximunBooks() + " books)";
-	}
+
 }
