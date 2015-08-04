@@ -10,6 +10,7 @@ public class Person {
 		name = "unknown name";
 		maximunBooks = 3;
 	}
+	
 	//Getters/setters
 	public String getName() {
 		return name;

@@ -13,6 +13,7 @@ public class Book {
 
 	public void setPerson(Person p2) {
 		this.person = p2;
+
 	}
 
 	public Person getPerson() {
