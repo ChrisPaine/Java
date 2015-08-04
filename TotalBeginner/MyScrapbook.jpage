@@ -1,2 +1,1 @@
-Person p = new Person();
-p.setName("Fred);p.setMaximunBooks(1);p.getMaximunBooks()
+Book b1 = new Book("Bible");Person p1 = new Person();b1.setAuthor("GOD");p1.setName("Chris");b1.setPerson(p1);b1.getPerson()
