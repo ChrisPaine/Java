@@ -1,1 +1,8 @@
-Book b1 = new Book("Bible");Person p1 = new Person();b1.setAuthor("GOD");p1.setName("Chris");b1.setPerson(p1);b1.getPerson()
+ArrayList<Book> list = new ArrayList<Book>();
+
+Book b1 = new Book("Great Expectations");
+Book b2 = new Book("War and Peace");Person p1 = new Person();p1.setName("Chris Paine");b1.setPerson(p1);
+list.add(b1);
+list.add(b2);
+
+list.get(0).getPerson().getName()
