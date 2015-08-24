@@ -1,7 +1,0 @@
-package org.totalbeginner.tutorial;
-
-import junit.framework.TestCase;
-
-public class MyLibraryTest extends TestCase {
-
-}
